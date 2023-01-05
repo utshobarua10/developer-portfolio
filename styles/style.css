@@ -154,3 +154,80 @@ padding: 30px;
     margin-top: 38px;
     margin-bottom: 20px;
 }
+/* styling resume */
+.resume-section{
+    display: flex;
+    margin: 150px;
+    gap: 24px;
+ 
+}
+.resume-title{
+    text-align: center;
+    font-weight: 700;
+font-size: 35px;
+
+}
+.education-title{
+    font-weight: 700;
+    font-size: 30px;
+    color: #474747;
+}
+.degree-name{
+    font-weight: 700;
+font-size: 25px;
+color: #474747;
+}
+.university{
+    font-weight: 600;
+font-size: 20px;
+color: #757575;
+}
+.degree-details{
+    font-weight: 400;
+font-size: 16px;
+color: #757575;
+
+}
+.education-details{
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+.resume-cv{
+    text-align: center;
+}
+.resume-cv{
+    text-align: center;
+    
+}
+/* Designing contact-form */
+.contact{
+    background: #FFF8F3;
+    height: 500px;
+}
+.contact-info{
+    display: flex;
+    margin: 150px;
+    padding: 50px;
+    gap: 36px;
+}
+.contact input{
+    width: 461px;
+    height: 64px;
+    border: none;
+    margin-bottom: 20px;
+    padding: 5px;
+
+}
+textarea{
+    border: none;
+}
+.contact-details p{
+    font-weight: 400;
+    font-size: 16px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.contact-form h3{
+    margin-bottom: 20px;
+}
+
