@@ -120,3 +120,37 @@ font-size: 45px;
     font-weight: 700;
 font-size: 20px;
 }
+
+/* Designing skills */
+.skills-container{
+    margin: 130px 230px ;
+    margin-top: 20px;
+}
+.skills{
+    display: flex;
+    gap: 24px;
+   
+}
+.skill{
+    margin-top: 10px;
+    background: #FFFFFF;
+box-shadow: 0px 6px 50px rgba(0, 0, 0, 0.06);
+border-radius: 5px;
+width: 267px;
+height: 377px;
+padding: 30px;
+}
+.what-i-do{
+    text-align: center;
+    font-weight: 700;
+    font-size: 35px;
+}
+.description{
+    text-align: center;
+    font-weight: 400;
+    font-size: 18px;
+}
+.skill-title{
+    margin-top: 38px;
+    margin-bottom: 20px;
+}
