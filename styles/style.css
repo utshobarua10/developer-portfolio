@@ -69,6 +69,18 @@ font-size: 45px;
     font-weight: 400;
     font-size: 18px;
 }
+.banner-contact{
+    border: #FD6E0A 1px solid;
+    border-radius: 5px;
+    width: 150px;
+    height: 65px;
+    color: #FD6E0A;;
+    background-color: transparent;
+    font-weight: 700;
+    font-size: 20px;
+    border-radius: 5px;
+
+}
 .download-cv{
     background-color: #FD6E0A;
     width: 200px;
@@ -108,7 +120,7 @@ font-size: 45px;
     margin-top: 20px;
     list-style:none;
     display: flex;
-   
+    gap: 5px;
     justify-content: space-around;
 }
 .name{
